@@ -1,0 +1,15 @@
+# Librerías principales para manejo de datos
+pandas
+numpy
+
+# Generación de datos falsos en español
+Faker
+
+# Visualización de datos
+matplotlib
+
+# Base de datos SQLite (ya viene integrado en Python, pero incluimos SQLAlchemy si deseas extender)
+SQLAlchemy
+
+# Jupyter Lab para ejecutar notebooks
+jupyterlab
