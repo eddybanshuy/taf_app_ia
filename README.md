@@ -33,9 +33,9 @@ git clone https://github.com/tu_usuario/mini-comisariato.git
 cd mini-comisariato
 2. Crear entorno virtual (opcional pero recomendado)
 Terminal
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
+python -m virtualen nombre_del_entorno
+source nombre_del_entorno/bin/activate   # Linux/Mac
+nombre_del_entorno\Scripts\activate      # Windows
 3. Instalar dependencias
 Terminal
 pip install -r requirements.txt
