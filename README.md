@@ -28,30 +28,30 @@ Jupyter Lab → entorno interactivo para notebooks.
 
 🚀 Instalación y ejecución
 1. Clonar el repositorio
-Terminal
-git clone https://github.com/tu_usuario/mini-comisariato.git
-cd mini-comisariato
+   Terminal
+   git clone https://github.com/tu_usuario/mini-comisariato.git
+   cd mini-comisariato
 2. Crear entorno virtual (opcional pero recomendado)
    
-Terminal
+   Terminal
 
-python -m virtualen nombre_del_entorno
+   python -m virtualen nombre_del_entorno
 
-source nombre_del_entorno/bin/activate   # Linux/Mac
+   source nombre_del_entorno/bin/activate   # Linux/Mac
 
-nombre_del_entorno\Scripts\activate      # Windows
+   nombre_del_entorno\Scripts\activate      # Windows
 
 4. Instalar dependencias
    
-Terminal
+   Terminal
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 6. Ejecutar Jupyter Lab
 
-Terminal
+   Terminal
 
-jupyter lab
+   jupyter lab
 
 Abrir el archivo notebook_proyecto.ipynb y ejecutar las celdas.
 
