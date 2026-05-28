@@ -3,6 +3,7 @@ Trabajo académico final escrito: Genera una aplicación de Inteligencia Artific
 
 
 🛒 Proyecto Mini-Comisariato con Python
+
 📌 Descripción
 
 Este proyecto simula un mini-comisariato utilizando datos ficticios generados con la librería Faker. Se construyen dos datasets:
