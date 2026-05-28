@@ -32,15 +32,25 @@ Terminal
 git clone https://github.com/tu_usuario/mini-comisariato.git
 cd mini-comisariato
 2. Crear entorno virtual (opcional pero recomendado)
+   
 Terminal
+
 python -m virtualen nombre_del_entorno
+
 source nombre_del_entorno/bin/activate   # Linux/Mac
+
 nombre_del_entorno\Scripts\activate      # Windows
-3. Instalar dependencias
+
+4. Instalar dependencias
+   
 Terminal
+
 pip install -r requirements.txt
-4. Ejecutar Jupyter Lab
+
+6. Ejecutar Jupyter Lab
+
 Terminal
+
 jupyter lab
 
 Abrir el archivo notebook_proyecto.ipynb y ejecutar las celdas.
