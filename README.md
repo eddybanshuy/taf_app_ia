@@ -28,10 +28,14 @@ Jupyter Lab → entorno interactivo para notebooks.
 
 🚀 Instalación y ejecución
 1. Clonar el repositorio
+   
    Terminal
-   git clone https://github.com/tu_usuario/mini-comisariato.git
-   cd mini-comisariato
-2. Crear entorno virtual (opcional pero recomendado)
+   
+   git clone https://github.com/eddybanshuy/taf_app_ia.git
+   
+   cd taf_app_ia
+   
+3. Crear entorno virtual (opcional pero recomendado)
    
    Terminal
 
